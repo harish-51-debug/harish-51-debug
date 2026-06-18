@@ -20,8 +20,6 @@
 - Gazebo
 - PX4
 - Git & GitHub
--Cadence Virtuoso
--Lt Spice
 
 ## Projects
 🚁 Autonomous Drone Navigation using ROS2, PX4 and Gazebo
