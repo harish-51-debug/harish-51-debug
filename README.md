@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm V. Sri Sai Harish 👋
 
-<!--
-**harish-51-debug/harish-51-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🎓 B.Tech ECE Undergraduate
 
-Here are some ideas to get you started:
+🔹 Embedded Systems
+🔹 PCB Design
+🔹 IoT
+🔹 VLSI
+🔹 AI/ML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- C
+- Python
+- Embedded C
+- Arduino
+- EasyEDA
+- MATLAB
+- ROS2
+- Gazebo
+- PX4
+- Git & GitHub
+-Cadence Virtuoso
+-Lt Spice
+
+## Projects
+🚁 Autonomous Drone Navigation using ROS2, PX4 and Gazebo
+
+⚡ LM317 Adjustable Power Supply PCB Design using EasyEDA
+
+🚗 AI-Powered Driving Efficiency Optimizer
+
+📊 EV Market Forecast Dashboard
+
+## Certifications
+🏆 Qualcomm Academy – AI Upskilling Certificate: Hands-On Development from Model to App
+
+## Interests
+Embedded Systems | PCB Design | Robotics | AI/ML | IoT | VLSI
+
+## Connect With Me
+📧 Email: harishvadlapatla5@gmail.com
